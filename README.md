@@ -3,7 +3,7 @@
 
 | Instructor Information | **TA Information** | Course Information     |
 | :-------------         | :-------------     | :------------          |
-| Jon Clindaniel         | Dhruval Bhatt      | Location: [Online]()   |
+| Jon Clindaniel         | Dhruval Bhatt      | Location: [Online](https://canvas.uchicago.edu/courses/28258/external_tools/2028)   |
 | 1155 E. 60th Street, Rm. 215 |              | Monday/Wednesday       |
 | jclindaniel@uchicago.edu | dhruval@uchicago.edu | 9:30-11:20 AM (CDT)|
 | **Office Hours:** M 2:00-4:00 PM (CDT)\* | **Office Hours:** TBA\*| **Lab:** W 4:30-5:20 PM (CDT)|
@@ -31,7 +31,7 @@ There will be an assignment due at the end of each unit (4 in total). Each assig
 |               |	25% (Project) |
 
 ## Final Project
-For their final project (due 6/11/2020\*), students will write their own large-scale computing code that solves a social science research problem of your choosing. For instance, students might perform a computationally intensive demographic simulation, collect and analyze large-scale streaming social media data, or train a machine learning model on a large-scale economic dataset. Students will additionally record a short video presentation about their project in the final week of the course. Detailed descriptions and grading rubrics for the project and presentation are available [on the Canvas course site.]()
+For their final project (due 6/11/2020\*), students will write their own large-scale computing code that solves a social science research problem of your choosing. For instance, students might perform a computationally intensive demographic simulation, collect and analyze large-scale streaming social media data, or train a machine learning model on a large-scale economic dataset. Students will additionally record a short video presentation about their project in the final week of the course. Detailed descriptions and grading rubrics for the project and presentation are available [on the Canvas course site.](https://canvas.uchicago.edu/courses/28258)
 
 \* Due 6/5/2020 for students graduating in June
 
