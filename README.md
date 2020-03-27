@@ -3,10 +3,10 @@
 
 | Instructor Information | **TA Information** | Course Information     |
 | :-------------         | :-------------     | :------------          |
-| Jon Clindaniel         | Dhruval Bhatt      | Location: [Online](https://canvas.uchicago.edu/courses/28258/external_tools/2028)   |
+| Jon Clindaniel         | Dhruval Bhatt      | Location: [Online](https://canvas.uchicago.edu/courses/28258)   |
 | 1155 E. 60th Street, Rm. 215 |              | Monday/Wednesday       |
 | jclindaniel@uchicago.edu | dhruval@uchicago.edu | 9:30-11:20 AM (CDT)|
-| **Office Hours:** M 2:00-4:00 PM (CDT)\* | **Office Hours:** TBA\*| **Lab:** W 4:30-5:20 PM (CDT)|
+| **Office Hours:** [Schedule](https://appoint.ly/s/jclindaniel/office-hours)\* | **Office Hours:** TBA\*| **Lab:** Prerecorded, [Online](https://canvas.uchicago.edu/courses/28258)|
 
 \* Office Hours held via Zoom
 
