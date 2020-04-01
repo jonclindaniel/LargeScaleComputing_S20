@@ -16,36 +16,40 @@ Computational social scientists increasingly need to grapple with data that is e
 *Prerequisites: CAPP 30121 and CAPP 30122, or equivalent.*
 
 ## Course Structure
-Each week, students will attend two regular class sessions synchronously via Zoom and one lab session asynchronously via pre-recorded video. Attendance to the synchronous class sessions is mandatory and is an important component of the final course grade. Note that we will adopt the same rules and norms as in a physical classroom (take notes; participate by asking and answering questions; wear classroom-ready clothing). For everyone’s benefit, join the course in a quiet place. Turn on your video. Mute your microphone unless you are speaking. Close browser tabs not required for participating in class. This form of learning will be somewhat new to all of us, and success will depend on the same commitment we all bring to the physical classroom. Class sessions will consist of hybrid lectures/group activities, focused on teaching students fundamental large-scale computing concepts, as well as giving them the opportunity to apply these concepts to Computational Social Science research problems. Students should prepare for these classes by reading the assigned readings ahead of every session. All readings are available online and linked in the course schedule below.
+This course is structured into several modules, or overarching thematic learning units, focused on teaching students fundamental large-scale computing concepts, as well as giving them the opportunity to apply these concepts to Computational Social Science research problems. Students can access the content in these modules on the [Canvas course site](https://canvas.uchicago.edu/courses/28258). Each module consists of a series of asynchronous lectures, readings, and assignments, which will make up a portion of the instruction time each week. If students have any questions about the asynchronous content, they should post these questions in the Piazza forum for the course, which they can access by clicking the "Piazza" tab on the left side of the screen on the Canvas course site. To see an overall schedule and syllabus for the course, as well as access additional course-related files, please visit the GitHub Course Repository, available here.
 
-Students will also virtually participate in a hands-on Python lab section each week, meant to instill practical large-scale computing skills related to the week’s topic. In order to practice these skills and complete the course assignments, students will be given free access to UChicago's [Midway Research Computing Cluster](https://rcc.uchicago.edu/docs/), [Amazon Web Services (AWS)](https://aws.amazon.com/) cloud computing resources, and [DataCamp](https://www.datacamp.com/). More information about accessing these resources will be provided to registered students in the first several weeks of the quarter. The course staff will be available on Piazza to answer any coding or conceptual questions related to the course material.
+Additionally, students will attend short, interactive Zoom sessions during regular class hours (starting at 9:30 AM CDT) on Mondays and Wednesdays meant to give them the opportunity to discuss and apply the skills they have learned asynchronously and receive live instructor feedback. Attendance to the synchronous class sessions is mandatory and is an important component of the final course grade. Students can access the Zoom sessions by clicking on the "Zoom" tab on the left side of the screen on the Canvas course site. Students should prepare for these classes by reading the assigned readings ahead of every session. All readings are available online and are linked in the course schedule below.
+
+Students will also virtually participate in a hands-on Python lab section each week, meant to instill practical large-scale computing skills related to the week’s topic. These labs are accessible on the Canvas course site and related code will be posted here in this GitHub repository. In order to practice these large-scale computing skills and complete the course assignments, students will be given free access to UChicago's [Midway Research Computing Cluster](https://rcc.uchicago.edu/docs/), [Amazon Web Services (AWS)](https://aws.amazon.com/) cloud computing resources, and [DataCamp](https://www.datacamp.com/). More information about accessing these resources will be provided to registered students in the first several weeks of the quarter.
 
 ## Grading
 There will be an assignment due at the end of each unit (4 in total). Each assignment is worth 15% of the overall grade, with all assignments together worth a total of 60%. Additionally, attendance and participation will be worth 10% of the overall grade. Finally, students will complete a final project that is worth 30% of the overall grade (25% for the project itself, and 5% for an end-of-quarter presentation).
 
-| Course Component | Grade Percentage |
-| :------------- | :------------- |
-| Assignments (Total: 4) | 60% |
-| Attendance/Participation |	10% |
-| Final Project | 5% (Presentation) |
-|               |	25% (Project) |
+| Course Component         | Grade Percentage  |
+| :-------------           | :-------------    |
+| Assignments (Total: 4)   | 60%               |
+| Attendance/Participation | 10%               |
+| Final Project            | 5% (Presentation) |
+|                          | 25% (Project)     |
+
+Students do have the option of taking this course on a pass/fail basis. Note that in order to earn a "Pass," students must earn at least a B- (80%) in each of the above course components (including participation) and inform the instructor that they would like to be graded on a pass/fail basis before their Final Project due date.
 
 ## Final Project
-For their final project (due 6/11/2020\*), students will write their own large-scale computing code that solves a social science research problem of your choosing. For instance, students might perform a computationally intensive demographic simulation, collect and analyze large-scale streaming social media data, or train a machine learning model on a large-scale economic dataset. Students will additionally record a short video presentation about their project in the final week of the course. Detailed descriptions and grading rubrics for the project and presentation are available [on the Canvas course site.](https://canvas.uchicago.edu/courses/28258)
+For their final project (due 6/11/2020\*), students will write their own large-scale computing code that solves a social science research problem of their choosing. For instance, students might perform a computationally intensive demographic simulation, collect and analyze large-scale streaming social media data, or train a machine learning model on a large-scale economic dataset. Students will additionally record a short video presentation about their project in the final week of the course. Detailed descriptions and grading rubrics for the project and presentation are available [on the Canvas course site.](https://canvas.uchicago.edu/courses/28258)
 
 \* Due 6/5/2020 for students graduating in June
 
 ## Late Assignments/Projects
 Unexcused Late Assignment/Project Submissions will be penalized 10 percentage points for every hour they are late. For example, if an assignment is due on Wednesday at 2:00pm, the following percentage points will be deducted based on the time stamp of the last commit.
 
-| Example last commit |	Percentage points deducted |
-| ----| ---- |
-| 2:01pm to 3:00pm |	-10 percentage points |
-| 3:01pm to 4:00pm |-20 percentage points |
-| 4:01pm to 5:00pm | -30 percentage points |
-| 5:01pm to 6:00pm | -40 percentage points |
-| ... |	... |
-| 11:01pm and beyond |	-100 percentage points (no credit) |
+| Example last commit |	Percentage points deducted         |
+| ----                | ----                               |
+| 2:01pm to 3:00pm    |	-10 percentage points              |
+| 3:01pm to 4:00pm    |-20 percentage points               |
+| 4:01pm to 5:00pm    | -30 percentage points              |
+| 5:01pm to 6:00pm    | -40 percentage points              |
+| ...                 |	...                                |
+| 11:01pm and beyond  |	-100 percentage points (no credit) |
 
 ## Plagiarism on Assignments/Projects
 Academic honesty is an extremely important principle in academia and at the University of Chicago.
@@ -67,26 +71,26 @@ This course is open to all students who meet the academic requirements for parti
 | --- | --- | --- | --- | --- |  --- |
 | Fundamentals of Large-Scale Computing | Week 1: Introduction to Large-Scale Computing for the Social Sciences | 4/6/2020 | Introduction to the course and course goals | | |
 | | | 4/8/2020 | General Considerations for Large-Scale Computing | [Robey and Zamora 2020 (Chapter 1)](https://livebook.manning.com/book/parallel-and-high-performance-computing/chapter-1) | |
-| | Week 2: On-Premise Large-Scale CPU-computing with MPI | 4/13/2020 | An Introduction to CPUs and Research Computing Clusters | Pacheco 2011 (Ch. 1-3), [Midway RCC User Guide](https://rcc.uchicago.edu/docs/) | |
+| | Week 2: On-Premise Large-Scale CPU-computing with MPI | 4/13/2020 | An Introduction to CPUs and Research Computing Clusters | [Pacheco 2011](https://canvas.uchicago.edu/files/3391260/download?download_frd=1) (Ch. 1-3), [Midway RCC User Guide](https://rcc.uchicago.edu/docs/) | |
 | | | 4/15/2020 | Cluster Computing via Message Passing Interface (MPI) for Python | [Dalcín et al. 2008](https://www-sciencedirect-com.proxy.uchicago.edu/science/article/pii/S0743731507001712?via%3Dihub) | |
 |||| Lab: Hands-on Introduction to UChicago's Midway Computing Cluster and mpi4py |||
-| | Week 3: On-Premise GPU-computing with OpenCL | 4/20/2020 | An Introduction to GPUs and Heterogenous Computing with OpenCL | Scarpino 2012 (Read Ch. 1, Skim Ch. 2-5,9) | |
+| | Week 3: On-Premise GPU-computing with OpenCL | 4/20/2020 | An Introduction to GPUs and Heterogenous Computing with OpenCL | [Scarpino 2012](https://canvas.uchicago.edu/files/3391262/download?download_frd=1) (Read Ch. 1, Skim Ch. 2-5,9) | |
 | | | 4/22/2020 | Harnessing GPUs with PyOpenCL | [Klöckner et al. 2012](https://arxiv.org/pdf/0911.3456.pdf) | |
 |||| Lab: Introduction to PyOpenCL and GPU Computing on UChicago's Midway Computing Cluster |||
-| Architecting Computational Social Science Data Solutions in the Cloud | Week 4: An Introduction to Cloud Computing and Cloud HPC Architectures | 4/27/2020 | An Introduction to the Cloud Computing Landscape and AWS | Jorissen and Bouffler 2017 (Read Ch. 1, Skim Ch. 4-7), [Armbrust et al. 2009](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf), [Jonas et al. 2019](https://arxiv.org/pdf/1902.03383.pdf) | |
+| Architecting Computational Social Science Data Solutions in the Cloud | Week 4: An Introduction to Cloud Computing and Cloud HPC Architectures | 4/27/2020 | An Introduction to the Cloud Computing Landscape and AWS | [Jorissen and Bouffler 2017](https://canvas.uchicago.edu/files/3391263/download?download_frd=1) (Read Ch. 1, Skim Ch. 4-7), [Armbrust et al. 2009](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf), [Jonas et al. 2019](https://arxiv.org/pdf/1902.03383.pdf) | |
 | | | 4/29/2020 | Architectures for Large-Scale Computation in the Cloud | [Introduction to HPC on AWS](https://d1.awsstatic.com/whitepapers/Intro_to_HPC_on_AWS.pdf), [HPC Architectural Best Practices](https://d1.awsstatic.com/whitepapers/architecture/AWS-HPC-Lens.pdf) | Due: Assignment 1 (11:59 PM) |
 |||| Lab: Running "Serverless" HPC Jobs in the AWS Cloud |||
 | | Week 5: Architecting Large-Scale Data Solutions in the Cloud | 5/4/2020 | "Data Lake" Architectures | [Data Lakes and Analytics on AWS](https://aws.amazon.com/big-data/datalakes-and-analytics/), [AWS Data Lake Whitepaper](https://d1.awsstatic.com/whitepapers/Storage/data-lake-on-aws.pdf), [*Introduction to AWS Boto in Python*](https://campus.datacamp.com/courses/introduction-to-aws-boto-in-python) (DataCamp Course; Practice working with S3 Data Lake in Python) | |
 | | | 5/6/2020 | Architectures for Large-Scale Data Structuring and Storage | General, Open Source: ["What is a Database?" (YouTube),](https://www.youtube.com/watch?v=Tk1t3WKK-ZY) ["How to Choose the Right Database?" (YouTube),](https://www.youtube.com/watch?v=v5e_PasMdXc)  [“NoSQL Explained,”](https://www.mongodb.com/nosql-explained) AWS-specific solutions: ["Which Database to Use When?" (YouTube),](https://youtu.be/KWOSGVtHWqA) Optional: [Data Warehousing on AWS Whitepaper](https://d0.awsstatic.com/whitepapers/enterprise-data-warehousing-on-aws.pdf), [AWS Big Data Whitepaper](https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf) | |
 |||| Lab: Exploring Large Data Sources in an S3 Data Lake with the AWS Python SDK, Boto |||
-| Ingesting and Processing Data | Week 6: Large-Scale Data Ingestion and Processing | 5/11/2020 | Batch Ingestion and Processing with Apache Hadoop and MapReduce | White 2015 (read Ch. 1-2, Skim 3-4), [Dean and Ghemawat 2004](https://www.usenix.org/legacy/publications/library/proceedings/osdi04/tech/full_papers/dean/dean.pdf), ["What is Amazon EMR?"](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html), Running MapReduce Jobs with Python’s “mrjob” package on EMR ([Fundamentals](https://mrjob.readthedocs.io/en/latest/guides/quickstart.html) and [Elastic MapReduce Quickstart](https://mrjob.readthedocs.io/en/latest/guides/emr-quickstart.html)) ||
-| | | 5/13/2020 | Stream Ingestion and Processing with Apache Kafka, AWS Kinesis | Narkhede et al. 2017 (Read Ch. 1, Skim 3-6,11), [Dean and Crettaz 2019 (Ch. 4)](https://livebook.manning.com/book/event-streams-in-action/chapter-4/), [AWS Kinesis Whitepaper](https://d0.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf) | Due: Assignment 2 (11:59 PM) |
+| Ingesting and Processing Data | Week 6: Large-Scale Data Ingestion and Processing | 5/11/2020 | Batch Ingestion and Processing with Apache Hadoop and MapReduce | [White 2015](https://canvas.uchicago.edu/files/3391265/download?download_frd=1) (read Ch. 1-2, Skim 3-4), [Dean and Ghemawat 2004](https://www.usenix.org/legacy/publications/library/proceedings/osdi04/tech/full_papers/dean/dean.pdf), ["What is Amazon EMR?"](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html), Running MapReduce Jobs with Python’s “mrjob” package on EMR ([Fundamentals](https://mrjob.readthedocs.io/en/latest/guides/quickstart.html) and [Elastic MapReduce Quickstart](https://mrjob.readthedocs.io/en/latest/guides/emr-quickstart.html)) ||
+| | | 5/13/2020 | Stream Ingestion and Processing with Apache Kafka, AWS Kinesis | [Narkhede et al. 2017](https://canvas.uchicago.edu/files/3391266/download?download_frd=1) (Read Ch. 1, Skim 3-6,11), [Dean and Crettaz 2019 (Ch. 4)](https://livebook.manning.com/book/event-streams-in-action/chapter-4/), [AWS Kinesis Whitepaper](https://d0.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf) | Due: Assignment 2 (11:59 PM) |
 |||| Lab: Ingesting and Processing Batch Data with MapReduce on AWS EMR and Streaming Data with AWS Kinesis | ||
-| Large-Scale Data Analysis and Prediction | Week 7: An Introduction to High-Level Large-Scale Computing Paradigms for Data Analysis and Prediction | 5/18/2020 | Large-Scale Data Processing and Analysis with Spark and Dask | Karau et al. 2015 (Read Ch. 1-4, Skim 9-11), [*Introduction to PySpark*](https://learn.datacamp.com/courses/introduction-to-pyspark) (DataCamp Course), [“Why Dask,”](https://docs.dask.org/en/latest/why.html) [Dask Slide Deck](https://dask.org/slides.html),  Optional: [*Parallel Programming with Dask*](https://learn.datacamp.com/courses/parallel-programming-with-dask-in-python) (DataCamp Course) | |
+| Large-Scale Data Analysis and Prediction | Week 7: An Introduction to High-Level Large-Scale Computing Paradigms for Data Analysis and Prediction | 5/18/2020 | Large-Scale Data Processing and Analysis with Spark and Dask | [Karau et al. 2015](https://canvas.uchicago.edu/files/3391268/download?download_frd=1) (Read Ch. 1-4, Skim 9-11), [*Introduction to PySpark*](https://learn.datacamp.com/courses/introduction-to-pyspark) (DataCamp Course), [“Why Dask,”](https://docs.dask.org/en/latest/why.html) [Dask Slide Deck](https://dask.org/slides.html),  Optional: [*Parallel Programming with Dask*](https://learn.datacamp.com/courses/parallel-programming-with-dask-in-python) (DataCamp Course) | |
 | | | 5/20/2020 | A Deeper Dive into Spark (with Social Science Machine Learning Applications) | [*Machine Learning with PySpark*](https://campus.datacamp.com/courses/machine-learning-with-pyspark) (DataCamp Course), GPU integration in Spark for Machine Learning via [TensorFrames](https://databricks.com/session/tensorframes-deep-learning-with-tensorflow-on-apache-spark) (Hunter 2016), Optional: [*Feature Engineering with PySpark*](https://learn.datacamp.com/courses/feature-engineering-with-pyspark) (DataCamp Course)  | Due: Assignment 3 (11:59 PM) |
 |||| Lab: Running PySpark in an AWS EMR Notebook for Large-Scale Data Analysis and Prediction |||
 | | Week 8: Large-Scale Network Analysis | 5/25/2020 | Memorial Day (No Class) | | |
-| | | 5/27/2020 | Processing and Analyzing Large-Scale Graphs with Spark | Guller 2015, [Hunter 2017](https://www.youtube.com/watch?v=NmbKst7ny5Q) (Spark Summit Talk), [GraphFrames Documentation for Python](https://docs.databricks.com/spark/latest/graph-analysis/graphframes/user-guide-python.html) | |
+| | | 5/27/2020 | Processing and Analyzing Large-Scale Graphs with Spark | [Guller 2015](https://canvas.uchicago.edu/files/3391270/download?download_frd=1), [Hunter 2017](https://www.youtube.com/watch?v=NmbKst7ny5Q) (Spark Summit Talk), [GraphFrames Documentation for Python](https://docs.databricks.com/spark/latest/graph-analysis/graphframes/user-guide-python.html) | |
 |||| Lab: Network Analysis with PySpark |||
 | Student Projects and Presentations | Week 9: Final Project Presentations | 6/1/2020 | View and Comment on Student Presentations |  | Due: Final Project Presentation Video (9:30 AM) |
 ||| 6/3/2020 | View and Comment on Student Presentations |  | Due: Assignment 4 (11:59 PM) |
