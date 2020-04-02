@@ -71,8 +71,8 @@ This course is open to all students who meet the academic requirements for parti
 | --- | --- | --- | --- | --- |  --- |
 | Fundamentals of Large-Scale Computing | Week 1: Introduction to Large-Scale Computing for the Social Sciences | 4/6/2020 | Introduction to the course and course goals | | |
 | | | 4/8/2020 | General Considerations for Large-Scale Computing | [Robey and Zamora 2020 (Chapter 1)](https://livebook.manning.com/book/parallel-and-high-performance-computing/chapter-1) | |
-| | Week 2: On-Premise Large-Scale CPU-computing with MPI | 4/13/2020 | An Introduction to CPUs and Research Computing Clusters | [Pacheco 2011](https://canvas.uchicago.edu/files/3391260/download?download_frd=1) (Ch. 1-3), [Midway RCC User Guide](https://rcc.uchicago.edu/docs/) | |
-| | | 4/15/2020 | Cluster Computing via Message Passing Interface (MPI) for Python | [Dalcín et al. 2008](https://www-sciencedirect-com.proxy.uchicago.edu/science/article/pii/S0743731507001712?via%3Dihub) | |
+| | Week 2: On-Premise Large-Scale CPU-computing with MPI | 4/13/2020 | An Introduction to CPUs and Research Computing Clusters | [Pacheco 2011](https://canvas.uchicago.edu/files/3391260/download?download_frd=1) (Ch. 1-2), [Midway RCC User Guide](https://rcc.uchicago.edu/docs/) | |
+| | | 4/15/2020 | Cluster Computing via Message Passing Interface (MPI) for Python | [Pacheco 2011](https://canvas.uchicago.edu/files/3391260/download?download_frd=1) (Ch. 3), [Dalcín et al. 2008](https://www-sciencedirect-com.proxy.uchicago.edu/science/article/pii/S0743731507001712?via%3Dihub) | |
 |||| Lab: Hands-on Introduction to UChicago's Midway Computing Cluster and mpi4py |||
 | | Week 3: On-Premise GPU-computing with OpenCL | 4/20/2020 | An Introduction to GPUs and Heterogenous Computing with OpenCL | [Scarpino 2012](https://canvas.uchicago.edu/files/3391262/download?download_frd=1) (Read Ch. 1, Skim Ch. 2-5,9) | |
 | | | 4/22/2020 | Harnessing GPUs with PyOpenCL | [Klöckner et al. 2012](https://arxiv.org/pdf/0911.3456.pdf) | |
