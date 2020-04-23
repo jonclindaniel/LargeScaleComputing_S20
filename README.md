@@ -87,7 +87,7 @@ This course is open to all students who meet the academic requirements for parti
 | | | 5/13/2020 | Stream Ingestion and Processing with Apache Kafka, AWS Kinesis | [Narkhede et al. 2017](https://canvas.uchicago.edu/files/3391266/download?download_frd=1) (Read Ch. 1, Skim 3-6,11), [Dean and Crettaz 2019 (Ch. 4)](https://livebook.manning.com/book/event-streams-in-action/chapter-4/), [AWS Kinesis Whitepaper](https://d0.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf) | Due: Assignment 2 (11:59 PM) |
 |||| Lab: Ingesting and Processing Batch Data with MapReduce on AWS EMR and Streaming Data with AWS Kinesis | ||
 | Large-Scale Data Analysis and Prediction | Week 7: An Introduction to High-Level Large-Scale Computing Paradigms for Data Analysis and Prediction | 5/18/2020 | Large-Scale Data Processing and Analysis with Spark and Dask | [Karau et al. 2015](https://canvas.uchicago.edu/files/3391268/download?download_frd=1) (Read Ch. 1-4, Skim 9-11), [*Introduction to PySpark*](https://learn.datacamp.com/courses/introduction-to-pyspark) (DataCamp Course), [“Why Dask,”](https://docs.dask.org/en/latest/why.html) [Dask Slide Deck](https://dask.org/slides.html),  Optional: [*Parallel Programming with Dask*](https://learn.datacamp.com/courses/parallel-programming-with-dask-in-python) (DataCamp Course) | |
-| | | 5/20/2020 | A Deeper Dive into Spark (with Social Science Machine Learning Applications) | [*Machine Learning with PySpark*](https://campus.datacamp.com/courses/machine-learning-with-pyspark) (DataCamp Course), GPU integration in Spark for Machine Learning via [TensorFrames](https://databricks.com/session/tensorframes-deep-learning-with-tensorflow-on-apache-spark) (Hunter 2016), Optional: [*Feature Engineering with PySpark*](https://learn.datacamp.com/courses/feature-engineering-with-pyspark) (DataCamp Course)  | Due: Assignment 3 (11:59 PM) |
+| | | 5/20/2020 | A Deeper Dive into Spark (with Social Science Machine Learning Applications) | [*Machine Learning with PySpark*](https://campus.datacamp.com/courses/machine-learning-with-pyspark) (DataCamp Course), Optional: [*Feature Engineering with PySpark*](https://learn.datacamp.com/courses/feature-engineering-with-pyspark) (DataCamp Course), Videos about accelerating Spark with GPUs (via [Horovod](https://www.youtube.com/watch?v=D1By2hy4Ecw) for deep learning, and the RAPIDS Library for general operations [Part 1](https://www.youtube.com/watch?v=Qw-TB6EHmR8) and [Part 2](https://www.youtube.com/watch?v=ApI2EZIJU_Q)) | Due: Assignment 3 (11:59 PM) |
 |||| Lab: Running PySpark in an AWS EMR Notebook for Large-Scale Data Analysis and Prediction |||
 | | Week 8: Large-Scale Network Analysis | 5/25/2020 | Memorial Day (No Class) | | |
 | | | 5/27/2020 | Processing and Analyzing Large-Scale Graphs with Spark | [Guller 2015](https://canvas.uchicago.edu/files/3391270/download?download_frd=1), [Hunter 2017](https://www.youtube.com/watch?v=NmbKst7ny5Q) (Spark Summit Talk), [GraphFrames Documentation for Python](https://docs.databricks.com/spark/latest/graph-analysis/graphframes/user-guide-python.html) | |
@@ -121,8 +121,6 @@ Guller, Mohammed. 2015. "Graph Processing with Spark." In *Big Data Analytics wi
 
 ["High Performance Computing Lens AWS Well-Architected Framework." December 2019.](https://d1.awsstatic.com/whitepapers/architecture/AWS-HPC-Lens.pdf) AWS Whitepaper.
 
-Hunter, Tim. November 3, 2016. "TensorFrames: Deep Learning with TensorFlow on Apache Spark." https://databricks.com/session/tensorframes-deep-learning-with-tensorflow-on-apache-spark.
-
 Hunter, Tim. October 26, 2017. "GraphFrames: Scaling Web-Scale Graph Analytics with Apache Spark." https://www.youtube.com/watch?v=NmbKst7ny5Q.
 
 *Introduction to AWS Boto in Python*. https://campus.datacamp.com/courses/introduction-to-aws-boto-in-python. Accessed 3/2020.
@@ -145,6 +143,8 @@ Linux Academy. July 10, 2019. ["What is a Database?"](https://www.youtube.com/wa
 
 *Machine Learning with PySpark*. https://campus.datacamp.com/courses/machine-learning-with-pyspark. Accessed 3/2020.
 
+Martinez, Miguel, and Thomas Graves. "Accelerating Apache Spark by Several Orders of Magnitude with GPUs." https://www.youtube.com/watch?v=Qw-TB6EHmR8.
+
 "mrjob v0.7.1 documentation." https://mrjob.readthedocs.io/en/latest/index.html. Accessed 3/2020.
 
 Narkhede, Neha, Shapira, Gwen, and Todd Palino. 2017. *Kafka: The Definitive Guide*. Sebastopol, CA: O'Reilly.
@@ -162,6 +162,8 @@ Petrossian, Tony, and Ian Meyers. November 30, 2017. "Which Database to Use When
 Robey, Robert and Yuliana Zamora. 2020. *Parallel and High Performance Computing*. Manning Early Access Program.
 
 Scarpino, Matthew. 2012. *OpenCL in Action*. Shelter Island, NY: Manning.
+
+Sergeev, Alex. March 28, 2019. "Distributed Deep Learning with Horovod." https://www.youtube.com/watch?v=D1By2hy4Ecw.
 
 ["Streaming Data Solutions on AWS with Amazon Kinesis." July 2017.](https://d0.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf) AWS Whitepaper.
 
