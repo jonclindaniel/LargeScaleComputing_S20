@@ -3,7 +3,7 @@
 To run/debug `mrjob` code locally from your command line:
 
 ```
-python mapreduce_lab5.py 'sample_us.tsv'
+python mapreduce_lab5.py sample_us.tsv
 ```
 
 To run your `mrjob` code on an AWS EMR cluster, you should first ensure that your configuration file is set with your EC2 pem file name and file location, as well as your current credentials from AWS Education/Vocareum. Note that the credentials are listed with ":" here and not "=" as they are in your `credentials` file. `mrjob` assumes that this (`.mrjob.conf`) file will be located in your home directory (at `~/.mrjob.conf`), so you will need to put the file there. Otherwise, you will need to designate your configuration [as a command line option](https://mrjob.readthedocs.io/en/latest/cmd.html#create-cluster) when you start your `mrjob` job using the `-c` flag.
