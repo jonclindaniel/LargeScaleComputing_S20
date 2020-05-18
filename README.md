@@ -6,7 +6,7 @@
 | Jon Clindaniel         | Dhruval Bhatt      | Location: [Online](https://canvas.uchicago.edu/courses/28258)   |
 | 1155 E. 60th Street, Rm. 215 |              | Monday/Wednesday       |
 | jclindaniel@uchicago.edu | dhruval@uchicago.edu | 9:30-11:20 AM (CDT)|
-| **Office Hours:** [Schedule](https://appoint.ly/s/jclindaniel/office-hours)\* | **Office Hours:** [Schedule](https://appoint.ly/s/dhruval/officehours)\*| **Lab:** Prerecorded, [Online](https://canvas.uchicago.edu/courses/28258)|
+| **Office Hours:** [Schedule](https://appoint.ly/s/jclindaniel/office-hours)\* | **Office Hours:** [Schedule](https://appoint.ly/s/dhruval/office_hours)\*| **Lab:** Prerecorded, [Online](https://canvas.uchicago.edu/courses/28258)|
 
 \* Office Hours held via Zoom
 
